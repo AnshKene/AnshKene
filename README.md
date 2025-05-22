@@ -16,4 +16,4 @@ I'm a passionate Full Stack Developer from India 🇮🇳
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshkene&layout=compact&theme=tokyonight)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anshkene)
